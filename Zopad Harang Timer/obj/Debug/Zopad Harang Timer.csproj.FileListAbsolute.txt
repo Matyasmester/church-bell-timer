@@ -1,0 +1,10 @@
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad Harang Timer.csprojAssemblyReference.cache
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad_Harang_Timer.Properties.Resources.resources
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad Harang Timer.csproj.GenerateResource.cache
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad Harang Timer.csproj.CoreCompileInputs.cache
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\bin\Debug\Zopad Harang Timer.exe.config
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\bin\Debug\Zopad Harang Timer.exe
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\bin\Debug\Zopad Harang Timer.pdb
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad_Harang_Timer.MainForm.resources
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad Harang Timer.exe
+C:\Cs Projects\Zopad Harang Timer\Zopad Harang Timer\obj\Debug\Zopad Harang Timer.pdb
